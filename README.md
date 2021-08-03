@@ -19,7 +19,7 @@ Final Published version can be found at https://hrsautomation20.github.io/Homewo
 
 ## Chrome Ligthouse Score
 
-![Lighthouse_image](./assets/images/Accessibility_check.png)
+![Lighthouse_image](./assets/images/Accessibility_Check.PNG)
 
 ---
 © 2021 Hardik Rola All Rights Reserved.
