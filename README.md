@@ -1,25 +1,46 @@
 # Week 1 Homework
 
-Final Published version can be found at https://hrsautomation20.github.io/Homework/
+* [Description](#desc)
+* [Web Address](#visit)
+* [Usage](#usage)
+* [Contributing](#contri)
+* [License](#license)
 
-## Requirements:
-* Improve codebase for long-term sustainability
-* Making sure all the links are working as expected
-* Make CSS more efficient
-* Make sure that HTML follow the semantic structure
-* Final version should met accessibility standards
 
-## Completed:
-* CSS Improved
-* HTML Improved
-* Added comments to CSS and HTML
-* Created a live page link to final version
-* Matching Mock-Up site
-* Continuously working on **improving performance**
-
-## Chrome Ligthouse Score
-
-![Lighthouse_image](./assets/images/Accessibility_Check.PNG)
+<a name="desc"></a>
+## Description
 
 ---
-© 2021 Hardik Rola All Rights Reserved.
+
+<a name="visit"></a>
+## Visit Us
+
+Click on the below link to access the webpage
+
+https://hrsautomation20.github.io/Homework/
+
+<b>OR</b><br> Copy and paste below URL to your favorite browser
+
+```html
+https://hrsautomation20.github.io/Homework/
+```
+---
+<a name="usage"></a>
+## Usage Tips
+
+To navigate between different sections of the page click on the Top Right Navigation panel.
+
+![nav-menu](./assets/images/Navigation.PNG "Navigational Menu")
+---
+<a name="contri"></a>
+## Contributing
+For the website enhancement please contact the repo owner and provide the feedback. For local copy pull/download.zip files are welcome.
+
+---
+
+<a name="license"></a>
+## License
+No License are required
+
+---
+© 2021 HR All Rights Reserved.
