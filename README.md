@@ -1,4 +1,4 @@
-# Week 1 Homework
+# Horiseon Marketing
 
 ## Description
 
